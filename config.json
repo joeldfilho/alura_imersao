@@ -1,5 +1,12 @@
 {
     "name": "Joel Dias do Amaral Filho",
     "job": "Developer",
-    "github": "joeldfilho"
+    "github": "joeldfilho",
+    "playlists":{
+        "jogos": [{
+            "title": "titulo",
+            "url": "url",
+            "thumb": "thumbnail"
+        }]
+    }
 }

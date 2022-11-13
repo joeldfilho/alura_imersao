@@ -20,7 +20,7 @@ function Header() {
     return <StyledHeader>
         {/* <img src="banner"></img> */}
         <section className="user-info">
-            <img src={`https://github.com/${config.github}`} />
+            <img src={`https://github.com/${config.github}.png`} />
             <div>
                 <h2>
                     {config.name}
