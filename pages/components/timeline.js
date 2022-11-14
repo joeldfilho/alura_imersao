@@ -1,4 +1,6 @@
-function Timeline(){
+
+
+function Timeline(props){
     return <div>
     </div>
 }
